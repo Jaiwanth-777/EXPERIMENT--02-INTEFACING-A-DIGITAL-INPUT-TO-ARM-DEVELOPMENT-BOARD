@@ -165,7 +165,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ### On position:
 
-![IMG_20250909_091459](C:\Users\admin\Pictures\487585298-8d1e4a58-da5b-4d8a-92ac-a327e0df8864.jpg)
+![487585298-8d1e4a58-da5b-4d8a-92ac-a327e0df8864](https://github.com/user-attachments/assets/5e751da9-5d2b-4ae3-849d-7124e2e29dcd)
+
 
 ## Layout of the board:
 
