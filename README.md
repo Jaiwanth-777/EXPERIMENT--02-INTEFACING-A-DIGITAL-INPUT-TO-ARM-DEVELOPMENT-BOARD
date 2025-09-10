@@ -170,7 +170,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Layout of the board:
 
-<img width="249" height="328" alt="448235376-1293e3c0-b6cc-42fc-b08b-22af0036c58e" src="<img width="249" height="328" alt="487586149-87374a3e-07b1-4601-a84e-c4b7f84f1885" src="https://github.com/user-attachments/assets/544d2dc5-1d03-4ac1-acaf-1e4dae4f32e0" />
+src="<img width="249" height="328" alt="487586149-87374a3e-07b1-4601-a84e-c4b7f84f1885" src="https://github.com/user-attachments/assets/544d2dc5-1d03-4ac1-acaf-1e4dae4f32e0" />
 />
 
  
